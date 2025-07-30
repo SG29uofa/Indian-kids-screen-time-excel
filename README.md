@@ -5,7 +5,6 @@ Exploratory data analysis and dashboard design in Excel to uncover patterns in s
 
 Screen time affects children’s health, behavior, and daily routines.  
 In this project, I aimed to answer:
-
 Do boys and girls, or kids from different backgrounds, spend screen time differently?
 
 
