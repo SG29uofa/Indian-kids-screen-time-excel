@@ -7,6 +7,8 @@ Screen time affects children’s health, behavior, and daily routines.
 In this project, I aimed to answer:
 Do boys and girls, or kids from different backgrounds, spend screen time differently?
 
+## Dataset
+Indian Kids Screen Time Dataset on Kaggle (https://www.kaggle.com/datasets/ankushpanday2/indian-kids-screentime-2025)
 
 ## Project Files
 
